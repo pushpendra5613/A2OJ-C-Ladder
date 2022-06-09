@@ -90,7 +90,6 @@ signed  main()
              debug(cnt);
              debug(m);
          }
-
          cout<<cnt<<endl;
 
     return 0;
