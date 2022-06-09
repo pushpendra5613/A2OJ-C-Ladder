@@ -61,7 +61,6 @@ signed  main()
     cout<<count<<endl;
 
     n=min(n,m);
-
     int a=n;
     int b=0;
 
