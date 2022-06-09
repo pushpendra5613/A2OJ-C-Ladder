@@ -1,5 +1,3 @@
-//GIVEN LENGTH AND SUM OF DIGITS
-
 #include<bits/stdc++.h>
 using namespace std;
 #define gc getchar_unlocked
